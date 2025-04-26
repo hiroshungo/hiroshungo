@@ -1,6 +1,5 @@
 
 ## Hi! I'm hiroshungo 👋👋👋 
-<a href="https://github.com/hiroshungo/hiroshungo/"><img src="https://komarev.com/ghpvc/?username=hiroshungo" alt="hiroshungo" /></a>
 <a href="http://x.com/vhu3jmg6owihh5s?s=21"><img height="20" src="https://img.shields.io/twitter/follow/shungo?style=flat&logo=x" /></a>
 
 
