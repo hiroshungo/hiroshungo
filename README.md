@@ -2,6 +2,12 @@
 ## Hi! I'm hiroshungo 👋👋👋 
 
 
+## SNS
+
+
+<a href="http://x.com/vhu3jmg6owihh5s?s=21"><img height="20" src="https://img.shields.io/twitter/follow/yutkat?style=flat&logo=x" /></a>
+
+
 ## Tech Stack
 
 
