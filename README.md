@@ -1,5 +1,5 @@
 
-## Hi! I'm hiroshungo 👋👋👋 
+# Hi! I'm hiroshungo 👋👋👋 
 <a href="http://x.com/vhu3jmg6owihh5s?s=21"><img height="20" src="https://img.shields.io/twitter/follow/shungo?style=flat&logo=x" /></a>
 
 
@@ -45,6 +45,12 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiroshungo&theme=onedark)](https://github.com/hiroshungo/github-profile-trophy)
+
+
+## Recent Activities
+
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=hiroshungo&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 ## About me
