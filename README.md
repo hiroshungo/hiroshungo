@@ -1,5 +1,10 @@
 
 ## Hi! I'm hiroshungo 👋👋👋 
+<a href="https://github.com/yutkat/yutkat/"><img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" /></a>
+<a href="https://github.com/hiroshungo"><img height="20" src="https://img.shields.io/github/followers/hiroshungo?label=follow&logo=github&style=flat" /></a>
+<a href="https://github.com/hiroshungo"><img height="20" src="https://img.shields.io/github/stars/hiroshungo?logo=github&style=flat" /></a>
+<a href="http://x.com/vhu3jmg6owihh5s?s=21"><img height="20" src="https://img.shields.io/twitter/follow/shungo?style=flat&logo=x" /></a>
+
 
 
 ## Tech Stack
@@ -37,12 +42,6 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="2" />
 </div>
-
-
-## SNS
-
-
-<a href="http://x.com/vhu3jmg6owihh5s?s=21"><img height="20" src="https://img.shields.io/twitter/follow/shungo?style=flat&logo=x" /></a>
 
 
 ## GitHub Trophy
