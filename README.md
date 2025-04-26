@@ -2,12 +2,6 @@
 ## Hi! I'm hiroshungo 👋👋👋 
 
 
-## SNS
-
-
-<a href="http://x.com/vhu3jmg6owihh5s?s=21"><img height="20" src="https://img.shields.io/twitter/follow/shungo?style=flat&logo=x" /></a>
-
-
 ## Tech Stack
 
 
@@ -49,6 +43,13 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiroshungo&theme=onedark)](https://github.com/hiroshungo/github-profile-trophy)
+
+
+
+## SNS
+
+
+<a href="http://x.com/vhu3jmg6owihh5s?s=21"><img height="20" src="https://img.shields.io/twitter/follow/shungo?style=flat&logo=x" /></a>
 
 
 ## About me
