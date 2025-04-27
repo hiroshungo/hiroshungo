@@ -45,7 +45,6 @@
 
 ## GitHub Trophy
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiroshungo&theme=onedark)](https://github.com/hiroshungo/github-profile-trophy)
 
 
