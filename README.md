@@ -87,4 +87,7 @@
 
 ## Music
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31halb75wjua7u2ku6356ebk6vju&count=5&width=300" alt="Recently played" style="width: 100%; height: 100vh" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31halb75wjua7u2ku6356ebk6vju&count=5&width=300" alt="Recently played" style="width: 100%; height: 100vh" /></br>
+
+
+[![typograssy](https://typograssy.deno.dev/api?text=Thank%20you%20for%20watching!%20%20&l1=e99b9b&l2=c44040&l3=a13030&l4=6e2121&speed=60)](https://github.com/kawarimidoll/typograssy)
