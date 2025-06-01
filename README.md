@@ -1,5 +1,5 @@
 
-# Hi! I'm hiroshima 👋
+# Hello! I'm hiroshima 👋
 <a href="http://x.com/vhu3jmg6owihh5s?s=21"><img height="20" src="https://img.shields.io/twitter/follow/shungo?style=flat&logo=x" /></a>
 <a href="https://honzaap.github.io/GithubCity/?name=hiroshungo&year=2025"><img height="20" src="https://img.shields.io/badge/GithubCity-8A2BE2" /></a>
 
